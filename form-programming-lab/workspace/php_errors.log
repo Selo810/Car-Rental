@@ -1,0 +1,6 @@
+[24-Sep-2016 05:06:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/View/return_form.php on line 44
+[24-Sep-2016 05:06:32 UTC] PHP Stack trace:
+[24-Sep-2016 05:06:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/View/return_form.php:0
+[24-Sep-2016 05:07:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/View/return_form.php on line 44
+[24-Sep-2016 05:07:25 UTC] PHP Stack trace:
+[24-Sep-2016 05:07:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/View/return_form.php:0
